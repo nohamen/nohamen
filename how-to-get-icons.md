@@ -1,7 +1,7 @@
 # Wondered how I got the icons in the README Tools and technologies section?
 It's actually easy! Just type up this, and replace the icons with what you want!
 ```html
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,powershell,bash,swift)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,cpp,js,c,ruby,css,php,typescript,python,r,go,bash,rust,unrealengine,bootstrap)](#)
 ```
 # Here's how I got My GitHub Stats!
 ```html
