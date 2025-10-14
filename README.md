@@ -2,4 +2,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,cpp,js,c,ruby,css,php,typescript,python,r,go,bash,rust,unrealengine,bootstrap)](#)
 
-[Hamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohamen=icons=true&theme=swift)
+[Hamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohamen&show_icons=true&theme=swift)
