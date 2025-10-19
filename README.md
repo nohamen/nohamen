@@ -5,4 +5,6 @@
 
 [Hamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohamen&show_icons=true&theme=dracula)
 
-[Repositories](https://github.com/nohamen?tab=repositories)
+## 🔭 What Im Working On
+
+**Repositories And Working At Apple**
