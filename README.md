@@ -7,4 +7,4 @@
 
 ## 🔭 What Im Working On
 
-**Repositories And Working At Apple**
+**Repositories And Learning Programming Languages.**
