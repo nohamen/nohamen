@@ -5,4 +5,4 @@
 
 ![Hamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohamen&show_icons=true&theme=neon)
 
- <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
+ <img src="https://raw.githubusercontent.com/nohamen/nohamen/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
