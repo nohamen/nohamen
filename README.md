@@ -4,6 +4,3 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
 
 ![Hamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohamen&show_icons=true&theme=neon)
-
-
-     <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
